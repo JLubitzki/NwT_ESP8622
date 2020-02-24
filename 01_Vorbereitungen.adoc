@@ -9,7 +9,7 @@ ifdef::env-github[]
 endif::[]
 
 [NOTE]
-_In diesem Abschnitt machst du dich mit der Programmierumgebung vertraut._
+_In diesem Abschnitt machst du dich mit der Programmierumgebung vertraut. Hier erfährst du wie du den Mikrocontroller anschließt, ein erstes Programm überträgst und wie du feststellen kannst das alles funktioniert._
 
 ## Anmeldung zur Onlineversion der Programmierumgebung des Mikrocontrollers ##
 
@@ -21,7 +21,6 @@ Links oben gibt es den Knopf "SIGN IN". Auf der folgenden Seite klickst du auf "
 WARNING: Damit sind deine programmierten Daten in der Cloud gespeichert. Persönliche/geheime Daten haben da natürlich nichts verloren.
 
 ## Die Online Programmierumgebung ##
-HINT: Hier erfährst du wie du den Mikrocontroller anschließt, ein erstes Programm überträgst und wie du feststllen kannst das alles funktioniert.
 
 Zuerst meldest du dich mit deinem zuvor erstellen Account auf https://create.arduino.cc an. Unter dem Reiter **Software -&gt; Online Tools** klickst den Web Editor an.
 
