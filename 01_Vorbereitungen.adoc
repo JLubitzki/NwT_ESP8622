@@ -11,8 +11,9 @@ endif::[]
 [NOTE]
 _In diesem Abschnitt machst du dich mit der Programmierumgebung vertraut. Hier erfährst du wie du den Mikrocontroller anschließt, ein erstes Programm überträgst und wie du feststellen kannst das alles funktioniert._
 
-## Anmeldung zur Onlineversion der Programmierumgebung des Mikrocontrollers ##
+## Die Onlineversion der Programmierumgebung des Mikrocontrollers ##
 
+### Anmeldung ###
 Um dich zur Online Programmierumgebung anzumelden gehst du auf die folgende Seite
 https://www.arduino.cc/
 
