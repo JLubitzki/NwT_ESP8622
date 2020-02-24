@@ -62,7 +62,8 @@ Beobachte die Statusmeldungen und habe Geduld das Ganze kann eine Minute dauern.
 
 Verändere nun die Zeiten in der delay()-Funktion, lade das Programm erneut auf den Mikrocontroller.
 
-TIP: Was bedeutet *delay(500);*
+TIP: Was bedeutet `*delay(500);*` ?
+
 
 '''
 
