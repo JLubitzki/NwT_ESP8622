@@ -20,9 +20,7 @@ Links oben gibt es den Knopf "SIGN IN". Auf der folgenden Seite klickst du auf "
 WARNING: Damit sind deine programmierten Daten in der Cloud gespeichert. Persönliche/geheime Daten haben da natürlich nichts verloren.
 
 ## Die Online Programmierumgebung ##
-{% hint style="info" %}
-Hier erfährst du wie du den Mikrocontroller anschließt, ein erstes Programm überträgst und wie du feststllen kannst das alles funktioniert.
-{% endhint %}
+HINT: Hier erfährst du wie du den Mikrocontroller anschließt, ein erstes Programm überträgst und wie du feststllen kannst das alles funktioniert.
 
 Zuerst meldest du dich mit deinem zuvor erstellen Account auf https://create.arduino.cc an. Unter dem Reiter **Software -&gt; Online Tools** klickst den Web Editor an.
 
@@ -32,15 +30,13 @@ Spätestens jetzt muss du den Arduino mit einem USB-Kabel mit dem Computer verbi
 
 Wähle nun im Editor das Arduino-Board aus, welches du angeschlossen hast. Wir verwenden den **Arduino/Genuino Uno**.
 
-![](.gitbook/assets/arduino-editor-board-auswahl-02.png)
+image::arduino-editor-board-auswahl-02.png[]
 
 Nun wählst du unter **Examples** das Beispiel **Blink.** Mit dem Haken wird das Programm überprüft und mit dem Pfeil auf das Arduino-Board übertragen.
 
-![](.gitbook/assets/arduino-editor-blink-beispiel-laden-03.png)
+image::arduino-editor-blink-beispiel-laden-03.png[]
 
-{% hint style="success" %}
-Beobachte nun besonders unten die **Fehlerausgabe**. Wieviel Speicher belegt das Programm?
-{% endhint %}
+SUCCESS:Beobachte nun besonders unten die **Fehlerausgabe**. Wieviel Speicher belegt das Programm?
 
 Wenn alles geklappt hat, dann sollte die LED auf dem Arduino nun blinken. Finder heraus wie man die Blinkfrequenz verändern kann und lasse die LED schneller/langsamer blinken.
 
