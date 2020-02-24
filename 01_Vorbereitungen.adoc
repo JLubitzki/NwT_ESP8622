@@ -60,23 +60,11 @@ Nun öffnest du das Beispiel Blinken.ino unter
 Und klickst zuerst den **Hacken zum Überprüfen** und dann den *Pfeil zum Hochladen der Datei* auf den Mikrocontroller.
 Beobachte die Statusmeldungen und habe Geduld das Ganze kann eine Minute dauern.
 
+Verändere nun die Zeiten in der delay()-Funktion, lade das Programm erneut auf den Mikrocontroller und finde heraus, was delay(500); bedeutet:
 
+TIP:
 
-## Die Online Programmierumgebung ##
-
-Zuerst meldest du dich mit deinem zuvor erstellen Account auf https://create.arduino.cc an. Unter dem Reiter **Software -&gt; Online Tools** klickst den Web Editor an.
-
-image::webeditor.png[]
-
-Spätestens jetzt muss du den Mikrocontroller mit einem USB-Kabel mit dem Computer verbinden. Warte ein bischen, damit das Betriebssystem Zeit hat das neue Gerät zu registrieren.
-
-Wähle nun im Editor das Mikrocontroller-Board aus, welches du angeschlossen hast. Wir verwenden den **ESP8622**.
-
-image::arduino-editor-board-auswahl-02.png[]
-
-Nun wählst du unter **Examples** das Beispiel **Blink.** Mit dem Haken wird das Programm überprüft und mit dem Pfeil auf das Board übertragen.
-
-image::arduino-editor-blink-beispiel-laden-03.png[]
+'''
 
 TIP: Beobachte nun besonders unten die **Fehlerausgabe**. Wieviel Speicher belegt das Programm?
 
