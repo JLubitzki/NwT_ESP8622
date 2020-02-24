@@ -28,9 +28,7 @@ Das Programm selbst heißt *arduino.exe* und liegt im Ordner
 
 Die du durch Doppelklicken startest.
 
-## Auswählen von Board und Port ''
-
-Nun öffnest du das Beispiel Blinken.ino unter
+## Auswählen von Board und Port ##
 
 Spätestens jetzt schließt du den Mikrocontroller mit dem USB-Kabel an.
 
@@ -53,7 +51,14 @@ Die Verbindung legst du fest unter
 *** Port
 **** USB
 
+Bild einfügen
+
 ## Erstes Programm auf dem ESP8266 ##
+
+Nun öffnest du das Beispiel Blinken.ino unter
+
+Und klickst zuerst den **Hacken zum Überprüfen** und dann den *Pfeil zum Hochladen der Datei* auf den Mikrocontroller.
+Beobachte die Statusmeldungen und habe Geduld das Ganze kann eine Minute dauern.
 
 
 
