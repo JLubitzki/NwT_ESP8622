@@ -20,10 +20,13 @@ IMPORTANT: Die Online-Seite findest du unter https://www.arduino.cc. Dort gibt e
 Leider wird unser Mikrocontroller nicht kostenfrei unsterstützt, so dass wir zu einer lokalen Installation der Programmierumgebung greifen müssen.
 
 Für die Installation lädst du die .zip Datei auf deinen USB-Stick und entpackst sie dort.
-Das Programm selbst heißt *arduino.exe* und liegt
+Das Programm selbst heißt *arduino.exe* und liegt im Ordner
 
-Arduino_Windows_Portable:: 
-* arduino-1.8.12
+* Arduino_Windows_Portable 
+** arduino-1.8.12
+*** arduino.exe
+
+Die du durch Doppelklicken startest.
 
 
 
