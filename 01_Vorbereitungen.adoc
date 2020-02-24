@@ -12,12 +12,20 @@ endif::[]
 _In diesem Abschnitt machst du dich mit der Programmierumgebung vertraut. Hier erfährst du wie du den Mikrocontroller anschließt, ein erstes Programm überträgst und wie du feststellen kannst das alles funktioniert._
 
 Hilfsmittel::
-* 1 USB-Stick mit mindestens 1GB freiem Speicher
+* 1 USB-Stick mit mindestens 2GB freiem Speicher
 
 ## Installation der Software ##
 
-IMPORTANT: Die Online-Seite findeste du unter https://www.arduino.cc. Dort gibt es auch viele Hilfestellungen, ein Forum zum Fragenstellen, einen Online-Editor und v.a.m.
+IMPORTANT: Die Online-Seite findest du unter https://www.arduino.cc. Dort gibt es auch viele Hilfestellungen, ein Forum zum Fragenstellen, einen Online-Editor und v.a.m.
 Leider wird unser Mikrocontroller nicht kostenfrei unsterstützt, so dass wir zu einer lokalen Installation der Programmierumgebung greifen müssen.
+
+Für die Installation lädst du die .zip Datei auf deinen USB-Stick und entpackst sie dort.
+Das Programm selbst heißt *arduino.exe* und liegt
+
+Arduino_Windows_Portable:: 
+* arduino-1.8.12
+
+
 
 ## Die Online Programmierumgebung ##
 
