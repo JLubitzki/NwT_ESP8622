@@ -1,3 +1,19 @@
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+[NOTE]
+====
+A sample note admonition.
+We can use gemoji icons in the Asciidoctor markup.
+We assign an icon name to the document
+attributes `tip-caption`, `note-caption` and `important-caption`.
+====
+
 In diesem Abschnitt machst du dich mit der Programmierumgebung vertraut.
 
 ## Anmeldung zur Onlineversion der Programmierumgebung zum Arduino
