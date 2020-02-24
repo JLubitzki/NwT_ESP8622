@@ -64,7 +64,7 @@ Wenn alles geklappt hat, dann sollte die LED auf dem Mikrocontrollerboard nun bl
 
 TIP: Was bedeutet `"`*delay(500);*`"` ?
 
-
+Antwort:
 '''
 
 TIP: Beobachte nun besonders unten die **Fehlerausgabe**. Wieviel Speicher belegt das Programm?
