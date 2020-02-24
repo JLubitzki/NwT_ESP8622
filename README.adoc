@@ -1,0 +1,19 @@
+= Programmieren mit dem ESP8266 in NwT Klasse 9
+Author Jan Lubitzki
+// Metadata:
+:description: Dies ist ein Projekt für den NwT Unterricht in Klasse Baden-Württemberg.
+:keywords: NwT, Programmierung, ESP8266, Klasse 9
+// Settings:
+:icons: font
+:idprefix:
+:idseparator: -
+// Refs:
+:url-project: www.mbgym.de
+:url-docs: {url-project}/docs
+:url-issues:  https://github.com/asciidoctor/asciidoctor
+:img-ci: https://img.shields.io/travis/asciidoctor/asciidoctor/master.svg
+
+== Einleitung
+Warum der ESP8266 als Programmierumgebung? Wesentlich sind hier vor allem der geringe Preis von einem Viertel bis ein Fünftel des Preises für einen Arduino Uno, die kompatible Programmierumgebung für den Arduino bietet auch die Auswahl des ESP8266, der kleine Formfaktor mit der Steckerleiste, die sich direkt auf ein Steckbrett stecken lässt.
+Ausserdem lässt sich, z.B. für die Oberstufe, der ESP8266 auch in der Programmiersprache MicroPython programmieren.
+Nicht zuletzt gibt es eine Unmenge an Projekten für diesen Microcontroller im Internet.
