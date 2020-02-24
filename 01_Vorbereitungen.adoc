@@ -9,7 +9,7 @@ ifdef::env-github[]
 endif::[]
 
 [NOTE]
-### In diesem Abschnitt machst du dich mit der Programmierumgebung vertraut.###
+_In diesem Abschnitt machst du dich mit der Programmierumgebung vertraut._
 
 ## Anmeldung zur Onlineversion der Programmierumgebung zum Arduino
 
