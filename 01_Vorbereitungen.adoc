@@ -28,7 +28,32 @@ Das Programm selbst heißt *arduino.exe* und liegt im Ordner
 
 Die du durch Doppelklicken startest.
 
+## Auswählen von Board und Port ''
 
+Nun öffnest du das Beispiel Blinken.ino unter
+
+Spätestens jetzt schließt du den Mikrocontroller mit dem USB-Kabel an.
+
+Damit du Dateien auf den Mikrocontroller schreiben kannst musst du dem Computer zwei Dinge mitteilen.
+
+. Um welchen Mikrocontroller es sich handelt.
+. An welchem Anschluss der Mikrocontroller angeschlossen ist.
+
+Den Mikrocontroller wählst du aus unter 
+
+** Werkzeuge
+*** Boards
+**** NodeMCU 1.0(ESP-12E Module)
+
+Diesen Eintrag kannst du unter *Boards* kontrollieren.
+
+Die Verbindung legst du fest unter
+
+** Werkzeuge
+*** Port
+**** USB
+
+## Erstes Programm auf dem ESP8266 ##
 
 
 
