@@ -60,9 +60,9 @@ Nun öffnest du das Beispiel Blinken.ino unter
 Und klickst zuerst den **Hacken zum Überprüfen** und dann den *Pfeil zum Hochladen der Datei* auf den Mikrocontroller.
 Beobachte die Statusmeldungen und habe Geduld das Ganze kann eine Minute dauern.
 
-Verändere nun die Zeiten in der delay()-Funktion, lade das Programm erneut auf den Mikrocontroller.
+Wenn alles geklappt hat, dann sollte die LED auf dem Mikrocontrollerboard nun blinken. Finder heraus wie man die Blinkfrequenz verändern kann und lasse die LED schneller/langsamer blinken.
 
-TIP: Was bedeutet `*delay(500);*` ?
+TIP: Was bedeutet `"`*delay(500);*`"` ?
 
 
 '''
