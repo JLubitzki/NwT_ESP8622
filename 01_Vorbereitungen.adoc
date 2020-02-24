@@ -10,16 +10,12 @@ endif::[]
 
 [NOTE]
 _In diesem Abschnitt machst du dich mit der Programmierumgebung vertraut. Hier erfährst du wie du den Mikrocontroller anschließt, ein erstes Programm überträgst und wie du feststellen kannst das alles funktioniert._
+* **Hilfsmittel:** 1 USB-Stick mit mindestens 1GB freiem Speicher
 
-## Die Onlineversion der Programmierumgebung des Mikrocontrollers ##
+## Installation der Software ##
 
-### Anmeldung ###
-Um dich zur Online Programmierumgebung anzumelden gehst du auf die folgende Seite
-https://www.arduino.cc
-
-Links oben gibt es den Knopf *"SIGN IN"*. Auf der folgenden Seite klickst du auf *"CREATE NEW ACCOUNT"*. Nach der Bestätigung der Registrierung hast du Zugriff auf die Online Programmierumgebung des Mikrokontrollers. Gegenüber der Downloadversion hat dies den Vorteil, dass du von jedem Computer auf deine Programme zugreifen kannst und die Software ohne dein Zutun stets aktuell gehalten wird.
-
-CAUTION: Damit sind deine programmierten Daten in der Cloud gespeichert. Persönliche/geheime Daten haben da natürlich nichts verloren.
+IMPORTANT: Die Online-Seite findeste du unter https://www.arduino.cc. Dort gibt es auch viele Hilfestellungen, ein Forum zum Fragenstellen, einen Online-Editor und v.a.m.
+Leider wird unser Mikrocontroller nicht kostenfrei unsterstützt, so dass wir zu einer lokalen Installation der Programmierumgebung greifen müssen.
 
 ## Die Online Programmierumgebung ##
 
