@@ -68,7 +68,7 @@ Antwort:
 
 '''
 
-TIP: Welcher Schriftzug erscheint, wenn der Mikrocontroller beschrieben wurde?
+TIP: Welcher Schriftzug erscheint, wenn der Mikrocontroller fertig programmiert wurde?
 
 Antwort:
 
@@ -82,13 +82,13 @@ Antwort:
 
 Wenn alles geklappt hat, dann sollte die LED auf dem Mikrocontrollerboard nun blinken. Finder heraus wie man die Blinkfrequenz verändern kann und lasse die LED schneller/langsamer blinken.
 
-TIP: Ab welcher Frequenz kannst du/dein Partner die LED nicht mehr blinken sehen?
+TIP: Ab welcher Frequenz in Hz kannst du/dein Partner die LED nicht mehr blinken sehen?
 
 Antwort:
 
 '''
 
-TIP: Lasse die LED nun den Morsecode für **"SOS"** blinken. Schreibe zuletzt alle englischen Begriffe für die Variablen und Funktionsnamen in sinnvolle deutsche Begriffe um und schreibe das funktionierende Programm sauber Zeile für Zeile auf ein Blatt. Den großen Kommentarblock oben ersetzt du durch eine kurze Beschreibung des Programms (1-3 Sätze) und das aktuelle Datum und eure Namen.
+TIP: Lasse die LED nun den Morsecode für **"SOS"** blinken. Schreibe zuletzt alle **englischen Begriffe** für die Variablen und Funktionsnamen in sinnvolle **deutsche Begriffe** um und **schreibe das funktionierende Programm sauber Zeile für Zeile auf ein Blatt**. Den großen Kommentarblock oben ersetzt du durch eine **kurze Beschreibung des Programms** (1-3 Sätze) mit dem aktuellen Datum und euren Namen.
 
 * [x] Zeige das funktionierende Programm deinem Lehrer.
 
