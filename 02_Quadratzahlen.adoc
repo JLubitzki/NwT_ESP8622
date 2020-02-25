@@ -1,5 +1,7 @@
 # Quadratzahlen auf dem Arduino
 
+In diesem Abschnitt lernst du, wie der ESP8266 für dich Rechenaufgaben löst und du die Ergebnisse als Texausgabe auf den Bildschirm schicken kannst.
+
 Du hast ein Flussdiagramm zu den Quadratzahlen geschrieben. Nun sollst du dies in Programmcode für den Arduino umschreiben, compileren und starten.
 
 Ausserdem soll vor jedem Abschnitt ein Text ausgegeben werden, der sagt was passiert und die Ausgabe soll so verzögert erscheinen, dass man am Bildschirm mitlesen kann.
