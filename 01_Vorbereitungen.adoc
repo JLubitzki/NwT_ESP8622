@@ -70,10 +70,12 @@ Antwort:
 
 TIP: Welcher Schriftzug erscheint, wenn der Mikrocontroller beschrieben wurde?
 
+Antwort:
 '''
 
 TIP: Wieviel Speicher belegt das Programm?
 
+Antwort:
 '''
 
 Wenn alles geklappt hat, dann sollte die LED auf dem Mikrocontrollerboard nun blinken. Finder heraus wie man die Blinkfrequenz verändern kann und lasse die LED schneller/langsamer blinken.
