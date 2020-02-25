@@ -88,6 +88,15 @@ TIP: Lasse die LED nun den Morsecode für **"SOS"** blinken. Schreibe zuletzt al
 
 [x] Zeige das funktionierende Programm deinem Lehrer.
 
+*[x] Zeige das funktionierende Programm deinem Lehrer.
+
+* [x] Zeige das funktionierende Programm deinem Lehrer.
+
+* [*] checked
+* [x] also checked
+* [ ] not checked
+*     normal list item
+
 CAUTION: **Achtung:** Die Programmdatei auch **Sourcecode** oder **Quellcode** genannt ist normalerweise **Lizensiert** und unterliegt dem **Copyright**. Das bedeutet im allgemeinen muss der Autor genannt und die Lizenz beachtet werden. Hier dient 
 TIP: **Hausaufgabe** ist das Protokollieren aller Schritte, die du heute durchgeführt hast in dein **Lastenheft**. Dazu gehört auch die Beantwortung der Fragen auf dieser Seite.
 
