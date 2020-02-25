@@ -85,7 +85,9 @@ Antwort:
 '''
 
 TIP: Lasse die LED nun den Morsecode für **"SOS"** blinken. Schreibe zuletzt alle englischen Begriffe \(Variablen, Funktionsnamen,...\) in sinnvolle deutsche Begriffe um und schreibe das funktionierende Programm sauber Zeile für Zeile auf ein Blatt. Den großen Kommentarblock oben ersetzt du durch einen kurze Beschreibung des Programms \(1-2 Sätze\) und das aktuelle Datum und eure Namen.
-Zeige das funktionierende Programm deinem Lehrer. * [] 
+Zeige das funktionierende Programm deinem Lehrer.
+
+* [] 
 
 CAUTION: **Achtung:** Die Programmdatei auch **Sourcecode** oder **Quellcode** genannt ist normalerweise **Lizensiert** und unterliegt dem **Copyright**. Das bedeutet im allgemeinen muss der Autor genannt und die Lizenz beachtet werden. Hier dient 
 TIP: **Hausaufgabe** ist das Protokollieren aller Schritte, die du heute durchgeführt hast in dein **Lastenheft**. Dazu gehört auch die Beantwortung der Fragen auf dieser Seite.
