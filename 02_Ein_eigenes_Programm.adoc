@@ -30,7 +30,7 @@ TIP: Was unterscheidet beide Funktionen? Welche kannst du löschen und das Progr
 
 .Arduino Funktionen
 |===
-| | *erste Funktion* |    *zweite Funktion* 
+| 2+| *erste Funktion* |    *zweite Funktion* 
 
 |Name
 |
