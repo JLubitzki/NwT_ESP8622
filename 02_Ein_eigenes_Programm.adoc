@@ -16,9 +16,9 @@ TIP: Was unterscheidet beide Funktionen? Welche kannst du löschen und das Progr
 
 Ändere dazu was du willst und lade das Programm auf den Mikrocontroller. Fülle dann folgende Tabelle aus:
 
-.Arduino Funktionen
+.Mikrocontroller Funktionen
 |===
-|     | `*  die erste Funktion   *`  |    *die zweite Funktion* 
+|     | `*die erste Mikrocontroller-Funktion*`  |    *die zweite Mikrocontroller-Funktion* 
 |Name |                       |
 |Rückgabewert|                |
 |Parameter
