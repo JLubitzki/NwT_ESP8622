@@ -44,6 +44,7 @@ TIP: Was unterscheidet beide Funktionen? Welche kannst du löschen und das Progr
 |
 |
 
+
 Um die Ausgabe vom Arduino auf dem Bildschirm anzeigen zu lassen. Muss du zuerst in der Funktion setup\(\) die Übertragungsrate festlegen.
 
 ```c
