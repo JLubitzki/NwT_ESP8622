@@ -1,7 +1,8 @@
-In diesem Abschnitt schreibst du dein erstes eigenes Programm
+In diesem Abschnitt schreibst du dein erstes eigenes Programm.
+Du lernst wie du Daten, d.h. Text und Zahlen auf dem Bilschirm bekommst.
 
-* [ ] Starte deine Online-Programmierumgebung
-* [ ] Öffne den WebEditor und klicke auf **New Sketch**
+* [ ] Starte Programmierumgebung
+* [ ] Klicke auf *Datei* und dann auf **Neu**
 * [ ] Notiere die beiden Funktionen, die schon eingetragen sind.
 * [ ] Was unterscheidet beide Funktionen und welche kannst du löschen? Lege dazu folgende Tabelle an:
 
