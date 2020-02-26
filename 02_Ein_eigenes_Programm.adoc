@@ -18,7 +18,7 @@ TIP: Was unterscheidet beide Funktionen? Welche kannst du löschen und das Progr
 
 .Arduino Funktionen
 |===
-| | *F u n k t i o n 1*  |*F u n k t i o n 2* 
+| | *erste Funktion* |*zweite Funktion* 
 
 |Name
 |
