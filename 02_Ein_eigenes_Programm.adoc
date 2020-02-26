@@ -42,7 +42,7 @@ Ergänze die fehlenden Zeilen in der loop()-Funktion:
 
 [source,cpp]
 ----
-include::Code/01_LEDblinken.ino[]
+include::/Code/01_LEDblinken.ino[]
 ----
 
 Um die Ausgabe vom Arduino auf dem Bildschirm anzeigen zu lassen. Muss du zuerst in der Funktion setup\(\) die Übertragungsrate festlegen.
