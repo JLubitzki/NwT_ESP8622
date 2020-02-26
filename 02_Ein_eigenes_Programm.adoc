@@ -19,7 +19,7 @@ TIP: Was unterscheidet beide Funktionen? Welche kannst du löschen und das Progr
 .Arduino Funktionen
 [width="100%"]
 |===
-| |*Funktion1*             |*Funktion2*                 
+| |*Funktion1*             |*Funktion2*|
 
 |Name
 |
