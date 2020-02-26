@@ -16,15 +16,16 @@ TIP: Was unterscheidet beide Funktionen? Welche kannst du löschen und das Progr
 
 Ändere dazu was du willst und lade das Programm auf den Mikrocontroller. Fülle dann folgende Tabelle aus:
 
-.An example table
-[width="40%",frame="topbot",options="header,footer"]
-|======================
-|Column 1 |Column 2
-|1        |Item 1
-|2        |Item 2
-|3        |Item 3
-|6        |Three items
-|======================
+..An example table
+[width="50%",cols=">s,^2m,^2e",frame="topbot",options="header,footer"]
+|==========================
+|      2+|Columns 2 and 3
+|1       |Item 1  |Item 1
+|2       |Item 2  |Item 2
+|3       |Item 3  |Item 3
+|4       |Item 4  |Item 4
+|footer 1|footer 2|footer 3
+|==========================
 
 .Arduino Funktionen
 [width="200%"]
