@@ -17,8 +17,8 @@ TIP: Was unterscheidet beide Funktionen? Welche kannst du löschen und das Progr
 Ändere dazu was du willst und lade das Programm auf den Mikrocontroller. Fülle dann folgende Tabelle aus:
 
 .Arduino Funktionen
-|=================================
-| | *Funktion 1*  |*Funktion 2* 
+|===
+| | *F u n k t i o n 1*  |*F u n k t i o n 2* 
 
 |Name
 |
@@ -43,7 +43,7 @@ TIP: Was unterscheidet beide Funktionen? Welche kannst du löschen und das Progr
 |kann gelöscht werden
 |
 |
-|==================================
+|===
 
 Um die Ausgabe vom Arduino auf dem Bildschirm anzeigen zu lassen. Muss du zuerst in der Funktion setup\(\) die Übertragungsrate festlegen.
 
