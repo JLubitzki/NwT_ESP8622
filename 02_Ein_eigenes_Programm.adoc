@@ -31,31 +31,42 @@ v|&nbsp;
 |====
 
 .Arduino Funktionen
-[width="200%"]
 |===
-| |*Funktion 1* |*Funktion 2*
+| |*Funktion 1* | |*Funktion 2* |
 
 |Name
+|
+|
 |
 |
 
 |Rückgabewert
 |
 |
+|
+|
 
 |Parameter
+|
+|
 |
 |
 
 |Bedeutung
 |
 |
+|
+|
 
 |wird so oft durchlaufen
 |
 |
+|
+|
 
 |kann gelöscht werden
+|
+|
 |
 |
 |===
