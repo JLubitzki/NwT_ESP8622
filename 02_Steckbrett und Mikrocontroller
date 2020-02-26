@@ -1,0 +1,31 @@
+In diesem Abschnitt lernst du den Aufbau von Steckbrett und Mikrocontroller kennen.
+
+## Aufbau Steckbrett ##
+Finde heraus, wie die elektischen Leitungen unter dem Steckbrett verlaufen und zeichne diese in grüner Farbe ins Bild ein.
+
+Bild Steckbrett
+
+
+## Aufbau Mikrocontroller ##
+
+TIP: Finde heraus, was ein Mikrocontroller ist.
+
+Antwort:
+
+'''
+'''
+'''
+
+Im Bild siehst du unseren Mikrocontroller den ESP8622.
+TIP: Beschrifte im Bild den +USB-Anschluss*, den eigentlichen *Mikrocontroller-Baustein*, den Reset-Knopf (*RST*), die kombinierten digitalen *Ein-/Ausgänge* (es gibt 9) und die *Wlan-Antenne*. Was bedeutet *GND* und *3V3*?
+
+BILD ESP
+
+TIP: Baue nun den folgenden Stromkreis auf und zeichne ihn wieder mit grüner Farbe ein.
+
+Bild Eine LED
+
+TIP: Schließe nun zusätzlich ein gelbe LED an Pin D1 und eine grüne LED an Pin D2 an.
+
+TIP: Schreibe nun dein Programm so um, dass du eine Ampelschaltung erhälst.
+
