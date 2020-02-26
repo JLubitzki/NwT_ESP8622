@@ -3,6 +3,7 @@ Du lernst wie du Daten, d.h. Text und Zahlen auf dem Bilschirm bekommst.
 
 * [ ] Starte Programmierumgebung
 * [ ] Klicke auf *Datei* und dann auf **Neu**
+* [ ] Klicke auf *Datei* und dann *Speichern* und speichere die Datei unter dem Namen *Bildschirmausgabe* ab.
 * [ ] Notiere die beiden Funktionen, die schon eingetragen sind.
 * [ ] Was unterscheidet beide Funktionen und welche kannst du löschen? Lege dazu folgende Tabelle an:
 
