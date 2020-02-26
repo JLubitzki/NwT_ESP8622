@@ -16,60 +16,34 @@ TIP: Was unterscheidet beide Funktionen? Welche kannst du löschen und das Progr
 
 Ändere dazu was du willst und lade das Programm auf den Mikrocontroller. Fülle dann folgende Tabelle aus:
 
-:frame: all
-:grid: all
-:halign: left
-:valign: top
-
-[options="header"]
-|====
-||frame | grid |valign |halign
-v|&nbsp;
-&nbsp;
-&nbsp;
-|{frame} | {grid} |{valign} |{halign}
-|====
-
 .Arduino Funktionen
-|===
-| |*Funktion 1* | |*Funktion 2* |
+|=================================
+| | *Funktion 1*  |*Funktion 2* 
 
 |Name
-|
-|
 |
 |
 
 |Rückgabewert
 |
 |
-|
-|
 
 |Parameter
-|
-|
 |
 |
 
 |Bedeutung
 |
 |
-|
-|
 
 |wird so oft durchlaufen
-|
-|
 |
 |
 
 |kann gelöscht werden
 |
 |
-|
-|
-|===
+|==================================
 
 Um die Ausgabe vom Arduino auf dem Bildschirm anzeigen zu lassen. Muss du zuerst in der Funktion setup\(\) die Übertragungsrate festlegen.
 
