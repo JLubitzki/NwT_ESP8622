@@ -16,17 +16,20 @@ TIP: Was unterscheidet beide Funktionen? Welche kannst du löschen und das Progr
 
 Ändere dazu was du willst und lade das Programm auf den Mikrocontroller. Fülle dann folgende Tabelle aus:
 
-[width="15%"]
-|=======
-|1 |2 |A
-|3 |4 |B
-|5 |6 |C
-|=======
+.An example table
+[width="40%",frame="topbot",options="header,footer"]
+|======================
+|Column 1 |Column 2
+|1        |Item 1
+|2        |Item 2
+|3        |Item 3
+|6        |Three items
+|======================
 
 .Arduino Funktionen
 [width="200%"]
 |===
-| |*Funktion 1*             |*Funktion 2*
+| |*Funktion 1* |*Funktion 2*
 
 |Name
 |
