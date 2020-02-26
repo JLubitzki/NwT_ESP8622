@@ -1,5 +1,9 @@
 In diesem Abschnitt schreibst du dein erstes eigenes Programm.
-Du lernst wie du Daten, d.h. Text und Zahlen auf dem Bilschirm bekommst.
+Du lernst wie du eine externe LED ansteuern kannst.
+
+Baue dazu folgende Schaltung auf dem Steckbrett auf.
+Bild 1 LED
+
 
 * [ ] Starte Programmierumgebung
 * [ ] Klicke auf *Datei* und dann auf **Neu**
