@@ -14,7 +14,7 @@ Antwort:
 
 TIP: Was unterscheidet beide Funktionen? Welche kannst du löschen und das Programm funktioniert trotzdem?
 
-Ändere dazu was du willst und lade das Programm auf den Mikrocontroller. Fülle dann folgende Tabelle aus:
+Ändere dazu das Programm nach belieben und lade es auf den Mikrocontroller. Fülle dann folgende Tabelle aus:
 
 .Mikrocontroller Funktionen
 |===
