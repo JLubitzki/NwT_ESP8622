@@ -40,6 +40,16 @@ TIP: Was unterscheidet beide Funktionen? Welche kannst du löschen und das Progr
 Um Daten auf dem Bildschirm zu schreiben gibt es die Funktion println()
 Ergänze die fehlenden Zeilen in der loop()-Funktion:
 
+.app.rb
+[source,ruby]
+----
+require 'sinatra'
+
+get '/hi' do
+  "Hello World!"
+end
+----
+
 [source,CPP]
 ----
 include::/Code/01_LEDblinken.ino[]
