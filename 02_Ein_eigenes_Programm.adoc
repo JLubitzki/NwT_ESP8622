@@ -1,7 +1,4 @@
-In diesem Abschnitt schreibst du dein erstes eigenes Programm 
-
-
-Protokolliere wie immer dein Vorgehen.
+In diesem Abschnitt schreibst du dein erstes eigenes Programm
 
 * [ ] Starte deine Online-Programmierumgebung
 * [ ] Öffne den WebEditor und klicke auf **New Sketch**
