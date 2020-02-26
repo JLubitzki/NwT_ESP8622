@@ -40,19 +40,25 @@ TIP: Was unterscheidet beide Funktionen? Welche kannst du löschen und das Progr
 Um Daten auf dem Bildschirm zu schreiben gibt es die Funktion println()
 Ergänze die fehlenden Zeilen in der loop()-Funktion:
 
-.app.rb
-[source,ruby]
+.01_blinken.ino
+[source,cpp]
 ----
-require 'sinatra'
+// global Variables
+int LEDred = D2;
 
-get '/hi' do
-  "Hello World!"
-end
-----
 
-[source,CPP]
-----
-include::/Code/01_LEDblinken.ino[]
+// the setup function runs once when you press reset or power the board
+void setup() {
+  pinMode(LEDred, OUTPUT); // initialize digital pin D2 as an output
+}
+
+// the loop function runs over and over again forever
+void loop() {
+  digitalWrite(LEDred, HIGH); // sets the pin D2 to HIGH voltage
+  delay(1000);  // waits some time
+  digitalWrite(LEDred, LOW);
+  delay(1000); 
+}
 ----
 
 Um die Ausgabe vom Arduino auf dem Bildschirm anzeigen zu lassen. Muss du zuerst in der Funktion setup\(\) die Übertragungsrate festlegen.
