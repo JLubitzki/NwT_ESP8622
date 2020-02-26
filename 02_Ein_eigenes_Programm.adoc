@@ -18,7 +18,7 @@ TIP: Was unterscheidet beide Funktionen? Welche kannst du löschen und das Progr
 
 .Arduino Funktionen
 [width="100%"]
-|===
+|=========
 | |*Funktion1*             |*Funktion2*|
 
 |Name
@@ -44,7 +44,7 @@ TIP: Was unterscheidet beide Funktionen? Welche kannst du löschen und das Progr
 |kann gelöscht werden
 |
 |
-|===
+|=========
 
 Um die Ausgabe vom Arduino auf dem Bildschirm anzeigen zu lassen. Muss du zuerst in der Funktion setup\(\) die Übertragungsrate festlegen.
 
