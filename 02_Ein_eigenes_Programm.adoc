@@ -38,8 +38,12 @@ TIP: Was unterscheidet beide Funktionen? Welche kannst du löschen und das Progr
 ## Ausgabe auf dem Bildschirm ##
 
 Um Daten auf dem Bildschirm zu schreiben gibt es die Funktion println()
-Schreibe die folgenden Zeilen in die loop()-Funktion:
-Hier Code....
+Ergänze die fehlenden Zeilen in der loop()-Funktion:
+
+[source,cpp]
+----
+include::Code/01_LEDblinken.ino[]
+----
 
 Um die Ausgabe vom Arduino auf dem Bildschirm anzeigen zu lassen. Muss du zuerst in der Funktion setup\(\) die Übertragungsrate festlegen.
 
