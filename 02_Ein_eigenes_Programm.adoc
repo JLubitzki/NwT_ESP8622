@@ -18,20 +18,31 @@ TIP: Was unterscheidet beide Funktionen? Welche kannst du löschen und das Progr
 
 .Arduino Funktionen
 |===
-|Name of Column 1 |*Funktion 1* |*Funktion 2*| 
+|Name of Column 1 |*Funktion 1*|*Funktion 2*
 
-|Cell in column 1, row 1
-|Cell in column 2, row 1
-|Cell in column 3, row 1
+|Name
+|
+|
 
-|  | **Funktion 1**  | Funktion 2 |
-| :--- | :--- | :--- |
-| Name |  |  |
-| Rückgabewert |  |  |
-| Parameter |  |  |
-| Bedeutung |  |  |
-| wird so oft durchlaufen |  |  |
-| kann gelöscht werden |  |  |
+|Rückgabewert
+|
+|
+
+|Parameter
+|
+|
+
+|Bedeutung
+|
+|
+
+|wird so oft durchlaufen
+|
+|
+
+|kann gelöscht werden
+|
+|
 
 Um die Ausgabe vom Arduino auf dem Bildschirm anzeigen zu lassen. Muss du zuerst in der Funktion setup\(\) die Übertragungsrate festlegen.
 
