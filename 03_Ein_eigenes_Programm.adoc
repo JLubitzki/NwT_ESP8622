@@ -1,13 +1,13 @@
+## Dein erstes Programm - Die Ampelschaltung ##
+
 In diesem Abschnitt schreibst du dein erstes eigenes Programm.
 Du lernst wie du eine externe LED ansteuern kannst.
 
-Baue dazu folgende Schaltung auf dem Steckbrett auf.
-Bild 1 LED
-
+Du brauchst dazu wieder die Schaltung mit der roten LED aus dem vorherigen Kapitel.
 
 * [ ] Starte Programmierumgebung
 * [ ] Klicke auf *Datei* und dann auf **Neu**
-* [ ] Klicke auf *Datei* und dann *Speichern* und speichere die Datei unter dem Namen *Bildschirmausgabe* ab.
+* [ ] Klicke auf *Datei* und dann *Speichern* und speichere die Datei unter dem Namen *Ampelsteuerung* ab.
 
 TIP: Notiere die beiden Funktionen, die schon eingetragen sind.
 
@@ -41,7 +41,7 @@ TIP: Was unterscheidet beide Funktionen? Welche kannst du löschen und das Progr
 
 ## Die Ampelschaltung ##
 
-Schreibe das folgende Programm ab.
+Schreibe das folgende Programm ab bzw. ergänze die fehlenden Code-Zeilen.
 
 .01_blinken.ino
 [source,cpp]
