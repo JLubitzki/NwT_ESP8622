@@ -47,11 +47,13 @@ Schreibe das folgende Programm ab bzw. ergänze die fehlenden Code-Zeilen.
 [source,cpp]
 ----
 // global Variables
+int LEDrot = D0;
 int LEDgelb = D1;
 
 
 // the setup function runs once when you press reset or power the board
 void setup() {
+  pinMode(LEDrot, OUTPUT); // initialize digital pin D1 as an output
   pinMode(LEDgelb, OUTPUT); // initialize digital pin D1 as an output
 }
 
@@ -63,6 +65,12 @@ void loop() {
   delay(1000); 
 }
 ----
+
+TIP: Ergänze dein Programm so, dass noch eine *grüne LED an Pin D2* angeschlossen werden kann. Baue dann die Schaltung mit der zusätzlichen grünen LED auf.
+
+TIP: Schreibe dein Programm so um, dass eine *Ampelsteuerung" entsteht.
+TIP: Speichere dein Programm.
+Geschafft! 💪 
 
 Um die Ausgabe vom Arduino auf dem Bildschirm anzeigen zu lassen. Muss du zuerst in der Funktion setup\(\) die Übertragungsrate festlegen.
 
