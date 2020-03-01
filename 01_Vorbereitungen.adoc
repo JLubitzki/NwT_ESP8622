@@ -1,7 +1,7 @@
-[NOTE]
-_In diesem Abschnitt machst du dich mit der Programmierumgebung vertraut. Hier erfährst du wie du den Mikrocontroller anschließt, ein erstes Programm überträgst und wie du feststellen kannst das alles funktioniert._
+[NOTE]_
+In diesem Abschnitt machst du dich mit der Programmierumgebung vertraut. Hier erfährst du wie du den Mikrocontroller anschließt, ein erstes Programm überträgst und wie du feststellen kannst das alles funktioniert._
 
-Hilfsmittel:::
+Hilfsmittel::
 * 1 USB-Stick mit mindestens 2GB freiem Speicher
 
 ## Installation der Software ##
