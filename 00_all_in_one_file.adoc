@@ -7,9 +7,7 @@ include::ownBasics.adoc[]
 
 include::01_Vorbereitungen.adoc[]
 
-include::02_Steckbrett und Mikrocontroller.adoc[]
-
-include::02_Steckbrett und Mikrocontroller.adoc[]
+include::02_Steckbrett_und_Mikrocontroller.adoc[]
 
 include::03_Ein_eigenes_Programm.adoc[]
 
