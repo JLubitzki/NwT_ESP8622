@@ -70,19 +70,5 @@ TIP: Ergänze dein Programm so, dass noch eine *grüne LED an Pin D2* angeschlos
 
 TIP: Schreibe dein Programm so um, dass eine *Ampelsteuerung" entsteht.
 TIP: Speichere dein Programm.
+
 Geschafft! 💪 
-
-Um die Ausgabe vom Arduino auf dem Bildschirm anzeigen zu lassen. Muss du zuerst in der Funktion setup\(\) die Übertragungsrate festlegen.
-
-```c
-void setup() {
-  Serial.begin(9600);
-}
-```
-Die Funktion um Daten auf dem Bildschirm zu schreiben heißt *println()*.
-
-Öffne nun den "Monitor". **Hier Bild einfügen.**
-
-* [ ] Schreibe dein Programm zu den Quadratzahlen.
-* [ ] Teste dein Programm und kommentiere es.
-* [ ] Nach Rücksprach mit dem Lehrer darfst du es ausdrucken und abheften. Geschafft! 💪 
