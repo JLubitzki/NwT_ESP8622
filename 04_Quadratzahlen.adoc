@@ -29,4 +29,11 @@ Wenn du das Programm auf den Mikrocontroller überspielt hast siehst du noch kei
 
 Füge nun noch Pausen ein, damit man die Bildschirmausgabe auch lesen kann.
 
+## Schleifen ##
+
+Gleiche bzw. ähnliche Abläufe lassen sich viel schöner durch eine Schleife realisieren.
+TIP: Drucke die Zahlen von 1 bis 100 auf den Bildschirm aus. Schreibe vor jede Zahl entsprechend "gerade Zahl" bzw. "ungerade Zahl". Benutze ein oder zwei Schleifen. Das Programm soll möglichst kurz sein und wieder Pausen enthalten, damit man mitlesen kann.
+
+
+
 
