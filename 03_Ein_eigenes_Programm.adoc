@@ -41,7 +41,6 @@ TIP: Was unterscheidet beide Funktionen? Welche kannst du löschen und das Progr
 
 ## Ausgabe auf dem Bildschirm ##
 
-Um Daten auf dem Bildschirm zu schreiben gibt es die Funktion println()
 Ergänze die fehlenden Zeilen in der loop()-Funktion:
 
 .01_blinken.ino
@@ -72,6 +71,7 @@ void setup() {
   Serial.begin(9600);
 }
 ```
+Die Funktion um Daten auf dem Bildschirm zu schreiben heißt *println()*.
 
 Öffne nun den "Monitor". **Hier Bild einfügen.**
 
