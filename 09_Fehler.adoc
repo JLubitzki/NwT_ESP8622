@@ -1,0 +1,6 @@
+## Fehler und ihre Beseitigung ##
+
+Du hast sich schon festgestellt, dass der Compiler sehr pingelig ist, wenn es um falsche Syntax geht.
+
+TIP: Auf dieser Seite ist es deine Aufgabe fünf verschiedene Fehler zu beschreiben. Dazu Schreibst du die Fehlermeldung auf Englisch ab, übersetzt sie dann ins Deutsche und schreibst auf, wie sich der Fehler beheben lässt.
+
