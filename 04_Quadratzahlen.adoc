@@ -8,7 +8,7 @@ Ausserdem soll vor jedem Abschnitt ein Text ausgegeben werden, der sagt was pass
 
 ## Die Bildschirmausgabe ##
 
-Um die Ausgabe vom Mikrocontroller auf dem Bildschirm anzeigen zu lassen. Muss du zuerst in der Funktion setup\(\) die Übertragungsrate festlegen.
+Um die Ausgabe vom Mikrocontroller auf dem Bildschirm anzeigen zu lassen. Muss du zuerst in der Funktion *setup()* die Übertragungsrate festlegen.
 
 ```c
 void setup() {
@@ -28,11 +28,5 @@ Hallo Welt!
 Wenn du das Programm auf den Mikrocontroller überspielt hast siehst du noch keine Ausgabe. Dazu musst du den "Monitor" öffnen. **Hier Bild einfügen.**
 
 Füge nun noch Pausen ein, damit man die Bildschirmausgabe auch lesen kann.
-
-* [ ] Schreibe dein Programm zu den Quadratzahlen.
-* [ ] Teste dein Programm und kommentiere es.
-* [ ] Nach Rücksprach mit dem Lehrer darfst du es ausdrucken und abheften. Geschafft! 💪 
-
-
 
 
