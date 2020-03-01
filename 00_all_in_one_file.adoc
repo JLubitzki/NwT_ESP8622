@@ -1,9 +1,10 @@
-:imagesdir: Bilder
+= NwT Microcontroller in a single file
+J. Lubitzki
 
-ifdef::env-github[]
-:tip-caption: :bulb:
-:note-caption: :information_source:
-:important-caption: :heavy_exclamation_mark:
-:caution-caption: :fire:
-:warning-caption: :warning:
-endif::[]
+Dies ist die Einheit Mikrocontroller in einer einzigen Datei.
+
+include::basics.adoc[]
+
+include::installation.adoc[]
+
+include::example.adoc[]
