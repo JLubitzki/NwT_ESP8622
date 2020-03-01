@@ -47,17 +47,17 @@ Schreibe das folgende Programm ab bzw. ergänze die fehlenden Code-Zeilen.
 [source,cpp]
 ----
 // global Variables
-int LEDred = D2;
+int LEDgelb = D1;
 
 
 // the setup function runs once when you press reset or power the board
 void setup() {
-  pinMode(LEDred, OUTPUT); // initialize digital pin D2 as an output
+  pinMode(LEDgelb, OUTPUT); // initialize digital pin D1 as an output
 }
 
 // the loop function runs over and over again forever
 void loop() {
-  digitalWrite(LEDred, HIGH); // sets the pin D2 to HIGH voltage
+  digitalWrite(LEDred, HIGH); // sets the pin D1 to HIGH voltage
   delay(1000);  // waits some time
   digitalWrite(LEDred, LOW);
   delay(1000); 
