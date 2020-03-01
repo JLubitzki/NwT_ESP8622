@@ -39,9 +39,9 @@ TIP: Was unterscheidet beide Funktionen? Welche kannst du löschen und das Progr
 |
 |===
 
-## Ausgabe auf dem Bildschirm ##
+## Die Ampelschaltung ##
 
-Ergänze die fehlenden Zeilen in der loop()-Funktion:
+Schreibe das folgende Programm ab.
 
 .01_blinken.ino
 [source,cpp]
