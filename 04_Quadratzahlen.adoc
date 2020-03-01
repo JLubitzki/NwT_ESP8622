@@ -17,7 +17,7 @@ void setup() {
 ```
 Die Funktion um Daten auf dem Bildschirm zu schreiben heißt *Serial.print()* bzw *Serial.println()*.
 Lies dir unter https://www.arduino.cc/reference/en/language/functions/communication/serial/print/
-durch welche Möglichkeiten es gibt und Gib den Folgenden Text und folgende Zahlen auf dem Bildschirm aus."
+durch welche Möglichkeiten es dazu gibt und gib den folgenden Text und folgende Zahlen auf dem Bildschirm aus."
 
 Hallo Welt!
 "Eure beiden Vor- und Zunamen"
@@ -27,7 +27,7 @@ Hallo Welt!
 
 Wenn du das Programm auf den Mikrocontroller überspielt hast siehst du noch keine Ausgabe. Dazu musst du den "Monitor" öffnen. **Hier Bild einfügen.**
 
-
+Füge nun noch Pausen ein, damit man die Bildschirmausgabe auch lesen kann.
 
 * [ ] Schreibe dein Programm zu den Quadratzahlen.
 * [ ] Teste dein Programm und kommentiere es.
