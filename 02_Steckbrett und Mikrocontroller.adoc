@@ -23,9 +23,4 @@ BILD ESP
 
 TIP: Baue nun den folgenden Stromkreis auf und zeichne ihn wieder mit grüner Farbe ein.
 
-Bild Eine LED
-
-TIP: Schließe nun zusätzlich ein gelbe LED an Pin D1 und eine grüne LED an Pin D2 an.
-
-TIP: Schreibe nun dein Programm so um, dass du eine Ampelschaltung erhälst.
-
+Bild Eine rote LED mit Steckbrett Pin D0
