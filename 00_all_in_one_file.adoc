@@ -7,4 +7,10 @@ include::ownBasics.adoc[]
 
 include::01_Vorbereitungen.adoc[]
 
-include::example.adoc[]
+include::02_Steckbrett und Mikrocontroller.adoc[]
+
+include::02_Steckbrett und Mikrocontroller.adoc[]
+
+include::03_Ein_eigenes_Programm.adoc[]
+
+include::04_Quadratzahlen.adoc[]
